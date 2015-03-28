@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, LauncherActivity!</string>
+    <string name="app_name">SundyAndroidDemo</string>
+    <string name="subject_log">应用框架/其它/玩懂Log</string>
+    <string name="subject_process_lifecycle">应用框架/进程和线程/进程生命周期</string>
+    <string name="subject_process_activityrelation">应用框架/Activity/Activity,Window,View的关系</string>
+    <string name="process_activitymaintest">应用框架/Activity/Activity介绍及生命周期</string>
+    <string name="process_threadconcept">应用框架/进程和线程/线程概述</string>
+    <string name="process_handlerconcept">应用框架/进程和线程/Handler-异步时或不可缺的组件</string>
+    <string name="process_asynctask">应用框架/进程和线程/AsyncTask-异步任务</string>
+    <string name="process_check_memory">应用框架/进程和线程/检测内存消耗</string>
+    <string name="process_detect_block">应用框架/进程和线程/检测耗时操作</string>
+    <string name="media_sample_demo">应用框架/多媒体/MediaPlayer简单示例</string>
+    <string name="media_forground_service">应用框架/多媒体/前台服务</string>
+    <string name="media_audio_helloworld">应用框架/多媒体/音频播放的HelloWorld</string>
+    <string name="media_video_helloworld">应用框架/多媒体/视频播放的HelloWorld</string>
+    <string name="media_face_detector">应用框架/多媒体/人脸识别</string>
+    <string name="media_media_store">应用框架/多媒体/MediaStore</string>
+    <string name="telephony_contacts">应用框架/电话与短信/联系人信息</string>
+    <string name="telephony_sms">应用框架/电话与短信/短信应用</string>
+    <string name="telephony_call">应用框架/电话与短信/电话应用</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LauncherActivity!</string>
+    <string name="app_name">SundyAndroidDemo</string>
+	<string name="subject_log">应用框架/其它/玩懂Log</string>
+	<string name="subject_process_lifecycle">应用框架/进程和线程/进程生命周期</string>
+	<string name="subject_process_activityrelation">应用框架/Activity/Activity,Window,View的关系</string>
+	<string name="process_activitymaintest">应用框架/Activity/Activity介绍及生命周期</string>
+	<string name="process_threadconcept">应用框架/进程和线程/线程概述</string>
+	<string name="process_handlerconcept">应用框架/进程和线程/Handler-不可缺少的异步</string>
+	<string name="process_asynctask">应用框架/进程和线程/AsyncTask-异步任务</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button android:id="@+id/btn_list" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="List Contacts"/>
+    <Button android:id="@+id/btn_add" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Add Contact:   Test"/>
+    <Button android:id="@+id/btn_del" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Del Contact:   Test"/>
+    
+    <ListView android:id="@android:id/list" android:layout_width="match_parent" android:layout_height="match_parent"/>
+
+</LinearLayout>

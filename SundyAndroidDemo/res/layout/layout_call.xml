@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+        
+    <ListView android:id="@android:id/list" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    
+    <Button android:id="@+id/btn_make_call" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Make A Call To 5556"/>
+    <Button android:id="@+id/btn_list_call_logs" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="List Call Logs"/>
+    <Button android:id="@+id/btn_add_call_prefix" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Add 17951 Before Phone Nuber"/>
+    <Button android:id="@+id/btn_remove_call_prefix" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Remove Phone Number Prefix"/>
+    <Button android:id="@+id/btn_start_monitor" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Start Monitor Phone State"/>
+    <Button android:id="@+id/btn_stop_monitor" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Stop Monitor Phone State"/>
+    
+</LinearLayout>

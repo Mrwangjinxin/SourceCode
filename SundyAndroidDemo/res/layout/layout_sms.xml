@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+        
+    <ListView android:id="@android:id/list" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    
+    <Button android:id="@+id/btn_send_sms_intent" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Send Test Message To 5556 (Intent)"/>
+    <Button android:id="@+id/btn_send_sms" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Send Test Message To 5556"/>
+    <Button android:id="@+id/btn_list_sms_inbox" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="List Message History"/>
+    <Button android:id="@+id/btn_clear_sms" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Remove All Messages"/>
+    <Button android:id="@+id/btn_start_monitor" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Start Monitor SMS"/>
+    <Button android:id="@+id/btn_stop_monitor" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Stop Monitor SMS"/>
+    <Button android:id="@+id/btn_start_block" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Start Block All SMS"/>
+    <Button android:id="@+id/btn_stop_block" android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:text="Stop Block All SMS"/>
+    
+</LinearLayout>
